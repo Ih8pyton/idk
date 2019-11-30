@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 def fib_1(n):
     if n == 1 or n == 2:
         return 1
