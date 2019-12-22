@@ -31,4 +31,7 @@ def big_gcd(a,b):
             break
         else: u=u+1
         
-big_gcd(24,9)
+a = int(input())
+b = int(input())
+
+print(big_gcd (a,b))
