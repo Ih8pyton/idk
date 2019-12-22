@@ -18,5 +18,5 @@ def simple (arg):
             return True
             break
         
-A=int(input())
-print(simple(A))
+a=int(input())
+print(simple(a))
