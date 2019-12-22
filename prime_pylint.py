@@ -16,4 +16,4 @@ a = int(input())
 print(simple(a))
 
 "Your code has been rated at 2.86/10 (previous run: 2.14/10, +0.71).
- До использования PyLint'a оценка была в районе -2"
+ Р”Рѕ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёСЏ PyLint'a РѕС†РµРЅРєР° Р±С‹Р»Р° РІ СЂР°Р№РѕРЅРµ -2"
