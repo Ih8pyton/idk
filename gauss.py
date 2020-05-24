@@ -29,5 +29,5 @@ for i in range(n):
         for j in range(n+1):
                 a[i][j] = float(a[i][j])
 
-print(gauss(a))
+print(gauss(a)) 
 
