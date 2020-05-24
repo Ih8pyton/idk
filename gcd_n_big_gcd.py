@@ -23,5 +23,5 @@ def big_gcd(a,b):
             v = int((1-u*a1)/b1)
             return (n,u,v)
         else: u=u+1
-        
+         
 
