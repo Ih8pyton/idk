@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<p>введите a и b </p>
+
+<form action="/gcd" method="POST">
+  <input type="text" value="{{a}}" name="a" />
+  <input type="text" value="{{b}}" name="b" />
+  <input type="submit" value="icuzo">
+</form>
+
+<p>Ваш НОД и коэффициенты: {{Gcd}}</p>
+{% endblock %}
